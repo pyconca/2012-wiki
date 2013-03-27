@@ -1,4 +1,4 @@
-pyconca2012
-===========
+2012-wiki
+=========
 
-Everything related to the 2012 conference
+This repository is used for the wiki: https://github.com/pyconca/2012-wiki/wiki
